@@ -1,4 +1,4 @@
-# RocketLandingControlSystem
+# Rocket Landing Control System
 Rocket Landing Control System Library
 
 # Run Project
