@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RocketSystem/1.0.0": {
+        "dependencies": {
+          "RocketSystemLibrary": "1.0.0"
+        },
+        "runtime": {
+          "RocketSystem.dll": {}
+        }
+      },
+      "RocketSystemLibrary/1.0.0": {
+        "runtime": {
+          "RocketSystemLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RocketSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RocketSystemLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

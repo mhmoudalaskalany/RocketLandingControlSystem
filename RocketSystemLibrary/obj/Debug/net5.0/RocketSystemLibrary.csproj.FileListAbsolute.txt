@@ -1,0 +1,12 @@
+C:\My Work\My Repos\Backend\RocketSystem\RocketSystemLibrary\bin\Debug\net5.0\RocketSystemLibrary.deps.json
+C:\My Work\My Repos\Backend\RocketSystem\RocketSystemLibrary\bin\Debug\net5.0\RocketSystemLibrary.dll
+C:\My Work\My Repos\Backend\RocketSystem\RocketSystemLibrary\bin\Debug\net5.0\ref\RocketSystemLibrary.dll
+C:\My Work\My Repos\Backend\RocketSystem\RocketSystemLibrary\bin\Debug\net5.0\RocketSystemLibrary.pdb
+C:\My Work\My Repos\Backend\RocketSystem\RocketSystemLibrary\obj\Debug\net5.0\RocketSystemLibrary.csproj.AssemblyReference.cache
+C:\My Work\My Repos\Backend\RocketSystem\RocketSystemLibrary\obj\Debug\net5.0\RocketSystemLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Work\My Repos\Backend\RocketSystem\RocketSystemLibrary\obj\Debug\net5.0\RocketSystemLibrary.AssemblyInfoInputs.cache
+C:\My Work\My Repos\Backend\RocketSystem\RocketSystemLibrary\obj\Debug\net5.0\RocketSystemLibrary.AssemblyInfo.cs
+C:\My Work\My Repos\Backend\RocketSystem\RocketSystemLibrary\obj\Debug\net5.0\RocketSystemLibrary.csproj.CoreCompileInputs.cache
+C:\My Work\My Repos\Backend\RocketSystem\RocketSystemLibrary\obj\Debug\net5.0\RocketSystemLibrary.dll
+C:\My Work\My Repos\Backend\RocketSystem\RocketSystemLibrary\obj\Debug\net5.0\ref\RocketSystemLibrary.dll
+C:\My Work\My Repos\Backend\RocketSystem\RocketSystemLibrary\obj\Debug\net5.0\RocketSystemLibrary.pdb

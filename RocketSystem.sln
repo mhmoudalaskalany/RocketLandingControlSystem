@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketSystem", "RocketSystem\RocketSystem.csproj", "{F29F5C4A-AFA7-49DC-AC75-CA40526D0336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketSystemLibrary", "RocketSystemLibrary\RocketSystemLibrary.csproj", "{B7AD50C3-31CF-4CED-865F-7177D36831FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketSystemLibraryTest", "RocketSystemLibraryTest\RocketSystemLibraryTest.csproj", "{FAF2A07F-A78F-4B4F-8308-6B7EAB5B9BE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F29F5C4A-AFA7-49DC-AC75-CA40526D0336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F29F5C4A-AFA7-49DC-AC75-CA40526D0336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F29F5C4A-AFA7-49DC-AC75-CA40526D0336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F29F5C4A-AFA7-49DC-AC75-CA40526D0336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7AD50C3-31CF-4CED-865F-7177D36831FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7AD50C3-31CF-4CED-865F-7177D36831FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7AD50C3-31CF-4CED-865F-7177D36831FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7AD50C3-31CF-4CED-865F-7177D36831FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF2A07F-A78F-4B4F-8308-6B7EAB5B9BE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF2A07F-A78F-4B4F-8308-6B7EAB5B9BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF2A07F-A78F-4B4F-8308-6B7EAB5B9BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF2A07F-A78F-4B4F-8308-6B7EAB5B9BE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
