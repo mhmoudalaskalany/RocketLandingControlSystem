@@ -1,5 +1,6 @@
 ﻿using System;
 using RocketSystemLibrary.Controller;
+using RocketSystemLibrary.Models;
 
 namespace RocketSystem
 {
@@ -9,14 +10,16 @@ namespace RocketSystem
         {
             Console.WriteLine("Hello World To Rocket Landing Control System!");
 
-            var request = new RocketLandingController();
-
-            var rocketOneRequest = request.CreateNewRequest(5 , 5);
-            var rocketTwoRequest = request.CreateNewRequest(5 , 5);
-            var rocketThreeRequest = request.CreateNewRequest(13 , 15);
-            Console.WriteLine(rocketOneRequest);
-            Console.WriteLine(rocketTwoRequest);
-            Console.WriteLine(rocketThreeRequest);
+            var controller = new RocketLandingController();
+            var rocketOneRequest = controller.CreateNewRequest(5 , 5);
+            var rocketTwoRequest = controller.CreateNewRequest(5 , 5);
+            var rocketThreeRequest = controller.CreateNewRequest(13 , 15);
+            var coordination = new Coordination(6, 6);
+            var rocketFourRequest = controller.ProcessRequestForLanding(coordination);
+            Console.WriteLine($"Result Of  Request One {rocketOneRequest}");
+            Console.WriteLine($"Result Of  Request Two {rocketTwoRequest}");
+            Console.WriteLine($"Result Of  Request Four {rocketThreeRequest}");
+            Console.WriteLine($"Result Of Using Coordination With Request Four {rocketFourRequest}");
         }
     }
 }
